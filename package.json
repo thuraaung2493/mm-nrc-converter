@@ -14,5 +14,6 @@
   ],
   "author": "thuraaung",
   "license": "ISC",
-  "description": "Myanmar NRC Converter. This package will convert mm-format-nrc to eng-format-nrc."
+  "description": "Myanmar NRC Converter. This package will convert mm-format-nrc to eng-format-nrc.",
+  "homepage": "https://github.com/thuraaung2493/mm-nrc-converter.git"
 }
