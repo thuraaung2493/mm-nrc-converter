@@ -1,5 +1,5 @@
 {
-  "name": "mm-nrc-format",
+  "name": "mm-nrc-converter",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,18 @@
     "node",
     "npm",
     "nrc",
-    "nrc format",
-    "mm nrc format"
+    "nrc converter",
+    "mm nrc converter"
   ],
-  "author": "thuraaung",
+  "author": "thuraaung2493",
   "license": "ISC",
   "description": "Myanmar NRC Converter. This package will convert mm-format-nrc to eng-format-nrc.",
-  "homepage": "https://github.com/thuraaung2493/mm-nrc-converter.git"
+  "homepage": "https://github.com/thuraaung2493/mm-nrc-converter.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuraaung2493/mm-nrc-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thuraaung2493/mm-nrc-converter/issues"
+  }
 }
