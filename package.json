@@ -1,5 +1,5 @@
 {
-  "name": "@thuraaung2493/mm-nrc-format",
+  "name": "mm-nrc-converter",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
     "node",
     "npm",
     "nrc",
-    "nrc format",
-    "mm nrc format"
+    "nrc converter",
+    "mm nrc converter"
   ],
   "author": "thuraaung2493",
   "license": "ISC",

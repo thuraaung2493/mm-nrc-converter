@@ -16,7 +16,6 @@ function convertNrc(nrc, from = "eng", to = "mm") {
   const nrcWithoutSpace = nrc.replace(/\s*/g, "");
 
   function replacer(_, state, township, nrcType, numbers) {
-    // console.log(state, township, nrcType, numbers);
     state = converNumbers(state, from, to);
     numbers = converNumbers(numbers, from, to);
     nrcType = transform(nrcTypes, nrcType, from, to);
@@ -45,7 +44,3 @@ module.exports = {
   converNumbers,
   transform,
 };
-
-// console.log(convertNrc("၁၂ /  ကမတ  ( နိုင် )  ၀၀၀၀၈၁", "mm", "eng"));
-// console.log(convertNrc("၈/မမန (နိုင်) 643434", "mm", "eng"));
-// console.log(convertNrc("12  / KaMaTa(P)000081", "eng", "mm"));
