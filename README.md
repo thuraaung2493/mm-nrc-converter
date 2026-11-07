@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="assets/branding/logo.png" alt="mm-nrc-converter logo" width="120" />
+</p>
+
 # mm-nrc-converter
 
 This package will convert mm-format-nrc to eng-format-nrc or eng-format-nrc to mm-format-nrc.
+
+![mm-nrc-converter — an open-source project by Thura Aung](assets/branding/social-preview.jpg)
+
+An open-source project by [Thura Aung](https://thuraaung2493.github.io/).
 
 ## Installation
 
