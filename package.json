@@ -1,9 +1,23 @@
 {
   "name": "mm-nrc-converter",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "CHANGELOG.md",
+    "src/",
+    "data/",
+    "assets/branding/logo.png",
+    "assets/branding/social-preview.jpg"
+  ],
   "scripts": {
     "test": "jest"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "node",
@@ -14,7 +28,7 @@
   ],
   "author": "thuraaung2493",
   "license": "ISC",
-  "description": "Myanmar NRC Converter. This package will convert mm-format-nrc to eng-format-nrc.",
+  "description": "Offline Myanmar NRC conversion, parsing, validation, and township lookup.",
   "homepage": "https://github.com/thuraaung2493/mm-nrc-converter.git",
   "repository": {
     "type": "git",

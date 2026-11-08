@@ -1,5 +1,6 @@
 const Utils = require("../src/utils");
-const nrcLists = require("../data/nrc-list.json");
+const data = require("../data/nrc.json");
+const townships = data.flatMap(({ townships }) => townships);
 
 describe("Utils functions", () => {
   describe("removeAllSpace func", () => {
@@ -15,7 +16,7 @@ describe("Utils functions", () => {
   describe("transform func", () => {
     it("must transform a value from 'mm to eng' or 'eng to mm'", () => {
       const value = "MaMaNa";
-      const transformVal = Utils.transform(nrcLists, value, "eng", "mm");
+      const transformVal = Utils.transform(townships, value, "en", "mm");
 
       expect(transformVal).toBe("မမန");
       expect(transformVal).not.toBe("MaMaNa");

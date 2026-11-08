@@ -1,11 +1,8 @@
-const NrcCoverter = require("./index");
+const nrc = require("./index");
 
-console.log(NrcCoverter.convertNrc("၈/မမန (နိုင်) 643434", "mm", "eng"));
-console.log(NrcCoverter.autoConvertNrc("၈/မမန (နိုင်) 643434"));
-console.log(NrcCoverter.autoConvertNrc("11/MaMaNa (N) 643434"));
-
-console.log(NrcCoverter.convertNumbers("0123456789", "eng", "mm"));
-console.log(NrcCoverter.convertNumbers("၀၁၂၃၄၅၆၇၈၉", "mm", "eng"));
-
-console.log(NrcCoverter.detect("၈/မမန (နိုင်) 643434", "mm"));
-console.log(NrcCoverter.detect("11/MaMaNa (N) 643434", "mm"));
+console.log(nrc.toEnglish("၁၂/လမန (နိုင်) ၀၀၁၂၃၄"));
+console.log(nrc.toMyanmar("12/lamana(N)001234"));
+console.log(nrc.parse("၈/မမန(နိုင်)၉၃၉၄၃၃"));
+console.log(nrc.isValid("12/LaMaNa(N)001234"));
+console.log(nrc.getTownships(12, "mm"));
+console.log(nrc.convertNumbers("၀၁၂၃၄၅၆၇၈၉", "mm", "en"));

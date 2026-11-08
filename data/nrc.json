@@ -1,0 +1,1788 @@
+[
+  {
+    "state": "1",
+    "townships": [
+      {
+        "en": "MaKaNa",
+        "mm": "မကန"
+      },
+      {
+        "en": "HsaBaTa",
+        "mm": "ဆဘတ"
+      },
+      {
+        "en": "WaMaNa",
+        "mm": "ဝမန"
+      },
+      {
+        "en": "HsaDaNa",
+        "mm": "ဆဒန"
+      },
+      {
+        "en": "AGaYa",
+        "mm": "အဂယ"
+      },
+      {
+        "en": "TaNaNa",
+        "mm": "တနန"
+      },
+      {
+        "en": "RaBaYa",
+        "mm": "ရဗယ"
+      },
+      {
+        "en": "KhaHpaNa",
+        "mm": "ခဖန"
+      },
+      {
+        "en": "HsaLaNa",
+        "mm": "ဆလန"
+      },
+      {
+        "en": "KaPaTa",
+        "mm": "ကပတ"
+      },
+      {
+        "en": "PaWaNa",
+        "mm": "ပဝန"
+      },
+      {
+        "en": "MaNjaNa",
+        "mm": "မညန"
+      },
+      {
+        "en": "HaPaNa",
+        "mm": "ဟပန"
+      },
+      {
+        "en": "MaKaTa",
+        "mm": "မကတ"
+      },
+      {
+        "en": "KaMaNa",
+        "mm": "ကမန"
+      },
+      {
+        "en": "KaMaTa",
+        "mm": "ကမတ"
+      },
+      {
+        "en": "BaMaNa",
+        "mm": "ဗမန"
+      },
+      {
+        "en": "RaKaNa",
+        "mm": "ရကန"
+      },
+      {
+        "en": "MaLaNa",
+        "mm": "မလန"
+      },
+      {
+        "en": "MaMaNa",
+        "mm": "မမန"
+      },
+      {
+        "en": "LaGaNa",
+        "mm": "လဂန"
+      },
+      {
+        "en": "DaHpaYa",
+        "mm": "ဒဖယ"
+      },
+      {
+        "en": "MaSaNa",
+        "mm": "မစန"
+      },
+      {
+        "en": "PaTaA",
+        "mm": "ပတအ"
+      },
+      {
+        "en": "MaKhaBa",
+        "mm": "မခဘ"
+      },
+      {
+        "en": "NaMaNa",
+        "mm": "နမန"
+      },
+      {
+        "en": "PaNaDa",
+        "mm": "ပနဒ"
+      },
+      {
+        "en": "KhaBaDa",
+        "mm": "ခဘဒ"
+      },
+      {
+        "en": "KhaLaHpa",
+        "mm": "ခလဖ"
+      },
+      {
+        "en": "HsaPaBa",
+        "mm": "ဆပဘ"
+      }
+    ]
+  },
+  {
+    "state": "2",
+    "townships": [
+      {
+        "en": "LaKaNa",
+        "mm": "လကန"
+      },
+      {
+        "en": "DaMaHsa",
+        "mm": "ဒမဆ"
+      },
+      {
+        "en": "HpaRaHsa",
+        "mm": "ဖရဆ"
+      },
+      {
+        "en": "RaTaNa",
+        "mm": "ရတန"
+      },
+      {
+        "en": "BaLaKha",
+        "mm": "ဘလခ"
+      },
+      {
+        "en": "HpaHsaNa",
+        "mm": "ဖဆန"
+      },
+      {
+        "en": "MaSaNa",
+        "mm": "မစန"
+      },
+      {
+        "en": "RaThaNa",
+        "mm": "ရသန"
+      }
+    ]
+  },
+  {
+    "state": "3",
+    "townships": [
+      {
+        "en": "BaANa",
+        "mm": "ဘအန"
+      },
+      {
+        "en": "LaBaNa",
+        "mm": "လဘန"
+      },
+      {
+        "en": "PaKaNa",
+        "mm": "ပကန"
+      },
+      {
+        "en": "RaRaTha",
+        "mm": "ရရသ"
+      },
+      {
+        "en": "ThaTaKa",
+        "mm": "သတက"
+      },
+      {
+        "en": "ThaTaNa",
+        "mm": "သတန"
+      },
+      {
+        "en": "LaThaNa",
+        "mm": "လသန"
+      },
+      {
+        "en": "BaGaLa",
+        "mm": "ဘဂလ"
+      },
+      {
+        "en": "HpaPaNa",
+        "mm": "ဖပန"
+      },
+      {
+        "en": "KaMaMa",
+        "mm": "ကမမ"
+      },
+      {
+        "en": "KaKaRa",
+        "mm": "ကကရ"
+      },
+      {
+        "en": "KaHsaKa",
+        "mm": "ကဆက"
+      },
+      {
+        "en": "KaDaNa",
+        "mm": "ကဒန"
+      },
+      {
+        "en": "BaThaHsa",
+        "mm": "ဘသဆ"
+      },
+      {
+        "en": "MaWaTa",
+        "mm": "မဝတ"
+      },
+      {
+        "en": "SaKaLa",
+        "mm": "စကလ"
+      },
+      {
+        "en": "WaLaMa",
+        "mm": "ဝလမ"
+      }
+    ]
+  },
+  {
+    "state": "4",
+    "townships": [
+      {
+        "en": "HaKhaNa",
+        "mm": "ဟခန"
+      },
+      {
+        "en": "HtaTaLa",
+        "mm": "ထတလ"
+      },
+      {
+        "en": "HpaLaNa",
+        "mm": "ဖလန"
+      },
+      {
+        "en": "RaKhaDa",
+        "mm": "ရခဒ"
+      },
+      {
+        "en": "TaTaNa",
+        "mm": "တတန"
+      },
+      {
+        "en": "TaZaNa",
+        "mm": "တဇန"
+      },
+      {
+        "en": "KaKhaNa",
+        "mm": "ကခန"
+      },
+      {
+        "en": "MaTaNa",
+        "mm": "မတန"
+      },
+      {
+        "en": "MaTaPa",
+        "mm": "မတပ"
+      },
+      {
+        "en": "RaZaNa",
+        "mm": "ရဇန"
+      },
+      {
+        "en": "KaPaLa",
+        "mm": "ကပလ"
+      },
+      {
+        "en": "PaLaWa",
+        "mm": "ပလဝ"
+      },
+      {
+        "en": "HsaMaNa",
+        "mm": "ဆမန"
+      }
+    ]
+  },
+  {
+    "state": "5",
+    "townships": [
+      {
+        "en": "SaKaNa",
+        "mm": "စကန"
+      },
+      {
+        "en": "MaMaTa",
+        "mm": "မမတ"
+      },
+      {
+        "en": "MaMaNa",
+        "mm": "မမန"
+      },
+      {
+        "en": "RaBaNa",
+        "mm": "ရဘန"
+      },
+      {
+        "en": "WaLaNa",
+        "mm": "ဝလန"
+      },
+      {
+        "en": "KhaUNa",
+        "mm": "ခဥန"
+      },
+      {
+        "en": "KaBaLa",
+        "mm": "ကဘလ"
+      },
+      {
+        "en": "KaLaNa",
+        "mm": "ကလန"
+      },
+      {
+        "en": "RaUNa",
+        "mm": "ရဥန"
+      },
+      {
+        "en": "DaPaYa",
+        "mm": "ဒပယ"
+      },
+      {
+        "en": "TaHsaNa",
+        "mm": "တဆန"
+      },
+      {
+        "en": "KaMaNa",
+        "mm": "ကမန"
+      },
+      {
+        "en": "MaRaNa",
+        "mm": "မရန"
+      },
+      {
+        "en": "KhaUTa",
+        "mm": "ခဥတ"
+      },
+      {
+        "en": "ARaTa",
+        "mm": "အရတ"
+      },
+      {
+        "en": "BaTaLa",
+        "mm": "ဘတလ"
+      },
+      {
+        "en": "YaMaPa",
+        "mm": "ယမပ"
+      },
+      {
+        "en": "PaLaNa",
+        "mm": "ပလန"
+      },
+      {
+        "en": "KaNaNa",
+        "mm": "ကနန"
+      },
+      {
+        "en": "HsaLaKa",
+        "mm": "ဆလက"
+      },
+      {
+        "en": "KaThaNa",
+        "mm": "ကသန"
+      },
+      {
+        "en": "HtaKhaNa",
+        "mm": "ထခန"
+      },
+      {
+        "en": "ATaNa",
+        "mm": "အတန"
+      },
+      {
+        "en": "BaMaNa",
+        "mm": "ဗမန"
+      },
+      {
+        "en": "KaLaTa",
+        "mm": "ကလတ"
+      },
+      {
+        "en": "PaLaBa",
+        "mm": "ပလဘ"
+      },
+      {
+        "en": "WaThaNa",
+        "mm": "ဝသန"
+      },
+      {
+        "en": "KaLaHta",
+        "mm": "ကလထ"
+      },
+      {
+        "en": "KaLaWa",
+        "mm": "ကလဝ"
+      },
+      {
+        "en": "MaKaNa",
+        "mm": "မကန"
+      },
+      {
+        "en": "TaMaNa",
+        "mm": "တမန"
+      },
+      {
+        "en": "KhaPaNa",
+        "mm": "ခပန"
+      },
+      {
+        "en": "MaThaNa",
+        "mm": "မသန"
+      },
+      {
+        "en": "MaLaNa",
+        "mm": "မလန"
+      },
+      {
+        "en": "HpaPaNa",
+        "mm": "ဖပန"
+      },
+      {
+        "en": "KhaTaNa",
+        "mm": "ခတန"
+      },
+      {
+        "en": "HaMaLa",
+        "mm": "ဟမလ"
+      },
+      {
+        "en": "LaRaNa",
+        "mm": "လရန"
+      },
+      {
+        "en": "LaHaNa",
+        "mm": "လဟန"
+      },
+      {
+        "en": "NaYaNa",
+        "mm": "နယန"
+      },
+      {
+        "en": "PaHsaNa",
+        "mm": "ပဆန"
+      },
+      {
+        "en": "DaHaNa",
+        "mm": "ဒဟန"
+      },
+      {
+        "en": "MaPaLa",
+        "mm": "မပလ"
+      },
+      {
+        "en": "HtaPaKha",
+        "mm": "ထပခ"
+      },
+      {
+        "en": "HsaMaRa",
+        "mm": "ဆမရ"
+      },
+      {
+        "en": "NgaZaNa",
+        "mm": "ငဇန"
+      }
+    ]
+  },
+  {
+    "state": "6",
+    "townships": [
+      {
+        "en": "HtaWaNa",
+        "mm": "ထဝန"
+      },
+      {
+        "en": "LaLaNa",
+        "mm": "လလန"
+      },
+      {
+        "en": "ThaRaKha",
+        "mm": "သရခ"
+      },
+      {
+        "en": "RaHpaNa",
+        "mm": "ရဖန"
+      },
+      {
+        "en": "MaTaNa",
+        "mm": "မတန"
+      },
+      {
+        "en": "KaLaA",
+        "mm": "ကလအ"
+      },
+      {
+        "en": "MaARa",
+        "mm": "မအရ"
+      },
+      {
+        "en": "MaMaNa",
+        "mm": "မမန"
+      },
+      {
+        "en": "MaANa",
+        "mm": "မအန"
+      },
+      {
+        "en": "KaSaNa",
+        "mm": "ကစန"
+      },
+      {
+        "en": "PaLaNa",
+        "mm": "ပလန"
+      },
+      {
+        "en": "TaThaRa",
+        "mm": "တသရ"
+      },
+      {
+        "en": "PaLaTa",
+        "mm": "ပလတ"
+      },
+      {
+        "en": "KaThaNa",
+        "mm": "ကသန"
+      },
+      {
+        "en": "BaPaNa",
+        "mm": "ဘပန"
+      },
+      {
+        "en": "KhaMaKa",
+        "mm": "ခမက"
+      },
+      {
+        "en": "PaKaMa",
+        "mm": "ပကမ"
+      },
+      {
+        "en": "KaRaRa",
+        "mm": "ကရရ"
+      }
+    ]
+  },
+  {
+    "state": "7",
+    "townships": [
+      {
+        "en": "TaNgaNa",
+        "mm": "တငန"
+      },
+      {
+        "en": "RaTaRa",
+        "mm": "ရတရ"
+      },
+      {
+        "en": "HtaTaPa",
+        "mm": "ထတပ"
+      },
+      {
+        "en": "ATaNa",
+        "mm": "အတန"
+      },
+      {
+        "en": "HpaMaNa",
+        "mm": "ဖမန"
+      },
+      {
+        "en": "KaKaNa",
+        "mm": "ကကန"
+      },
+      {
+        "en": "PaKhaNa",
+        "mm": "ပခန"
+      },
+      {
+        "en": "KaTaKha",
+        "mm": "ကတခ"
+      },
+      {
+        "en": "RaKaNa",
+        "mm": "ရကန"
+      },
+      {
+        "en": "NjaLaPa",
+        "mm": "ညလပ"
+      },
+      {
+        "en": "DaUNa",
+        "mm": "ဒဥန"
+      },
+      {
+        "en": "WaMaNa",
+        "mm": "ဝမန"
+      },
+      {
+        "en": "ThaNaPa",
+        "mm": "သနပ"
+      },
+      {
+        "en": "KaWaNa",
+        "mm": "ကဝန"
+      },
+      {
+        "en": "ThaWaTa",
+        "mm": "သဝတ"
+      },
+      {
+        "en": "LaPaTa",
+        "mm": "လပတ"
+      },
+      {
+        "en": "MaLaNa",
+        "mm": "မလန"
+      },
+      {
+        "en": "MaNjaNa",
+        "mm": "မညန"
+      },
+      {
+        "en": "AHpaNa",
+        "mm": "အဖန"
+      },
+      {
+        "en": "KaPaKa",
+        "mm": "ကပက"
+      },
+      {
+        "en": "ZaKaNa",
+        "mm": "ဇကန"
+      },
+      {
+        "en": "NaTaLa",
+        "mm": "နတလ"
+      },
+      {
+        "en": "PaMaNa",
+        "mm": "ပမန"
+      },
+      {
+        "en": "ThaKaNa",
+        "mm": "သကန"
+      },
+      {
+        "en": "RaTaNa",
+        "mm": "ရတန"
+      },
+      {
+        "en": "PaTaTa",
+        "mm": "ပတတ"
+      },
+      {
+        "en": "PaTaNa",
+        "mm": "ပတန"
+      },
+      {
+        "en": "PaKhaTa",
+        "mm": "ပခတ"
+      }
+    ]
+  },
+  {
+    "state": "8",
+    "townships": [
+      {
+        "en": "MaKaNa",
+        "mm": "မကန"
+      },
+      {
+        "en": "RaNaKha",
+        "mm": "ရနခ"
+      },
+      {
+        "en": "KhaMaNa",
+        "mm": "ခမန"
+      },
+      {
+        "en": "NaMaNa",
+        "mm": "နမန"
+      },
+      {
+        "en": "MaThaNa",
+        "mm": "မသန"
+      },
+      {
+        "en": "TaTaKa",
+        "mm": "တတက"
+      },
+      {
+        "en": "MaBaNa",
+        "mm": "မဘန"
+      },
+      {
+        "en": "PaHpaNa",
+        "mm": "ပဖန"
+      },
+      {
+        "en": "SaLaNa",
+        "mm": "စလန"
+      },
+      {
+        "en": "SaTaRa",
+        "mm": "စတရ"
+      },
+      {
+        "en": "NgaHpaNa",
+        "mm": "ငဖန"
+      },
+      {
+        "en": "ThaRaNa",
+        "mm": "သရန"
+      },
+      {
+        "en": "MaHtaNa",
+        "mm": "မထန"
+      },
+      {
+        "en": "ALaNa",
+        "mm": "အလန"
+      },
+      {
+        "en": "KaMaNa",
+        "mm": "ကမန"
+      },
+      {
+        "en": "MaTaNa",
+        "mm": "မတန"
+      },
+      {
+        "en": "HsaPaWa",
+        "mm": "ဆပဝ"
+      },
+      {
+        "en": "MaLaNa",
+        "mm": "မလန"
+      },
+      {
+        "en": "PaKhaKa",
+        "mm": "ပခက"
+      },
+      {
+        "en": "RaSaKa",
+        "mm": "ရစက"
+      },
+      {
+        "en": "MaMaNa",
+        "mm": "မမန"
+      },
+      {
+        "en": "PaMaNa",
+        "mm": "ပမန"
+      },
+      {
+        "en": "HsaHpaNa",
+        "mm": "ဆဖန"
+      },
+      {
+        "en": "GaGaNa",
+        "mm": "ဂဂန"
+      },
+      {
+        "en": "HsaMaNa",
+        "mm": "ဆမန"
+      },
+      {
+        "en": "HtaLaNa",
+        "mm": "ထလန"
+      },
+      {
+        "en": "KaHtaNa",
+        "mm": "ကထန"
+      }
+    ]
+  },
+  {
+    "state": "9",
+    "townships": [
+      {
+        "en": "UTaTha",
+        "mm": "ဥတသ"
+      },
+      {
+        "en": "ZaYaTha",
+        "mm": "ဇယသ"
+      },
+      {
+        "en": "PaBaTha",
+        "mm": "ပဗသ"
+      },
+      {
+        "en": "TaKaNa",
+        "mm": "တကန"
+      },
+      {
+        "en": "DaKhaTha",
+        "mm": "ဒခသ"
+      },
+      {
+        "en": "ZaBaTha",
+        "mm": "ဇဗသ"
+      },
+      {
+        "en": "PaMaNa",
+        "mm": "ပမန"
+      },
+      {
+        "en": "LaWaNa",
+        "mm": "လဝန"
+      },
+      {
+        "en": "MaNaMa",
+        "mm": "မနမ"
+      },
+      {
+        "en": "AMaZa",
+        "mm": "အမဇ"
+      },
+      {
+        "en": "MaRaMa",
+        "mm": "မရမ"
+      },
+      {
+        "en": "KhaAZa",
+        "mm": "ခအဇ"
+      },
+      {
+        "en": "MaNaTa",
+        "mm": "မနတ"
+      },
+      {
+        "en": "KhaMaSa",
+        "mm": "ခမစ"
+      },
+      {
+        "en": "MaRaTa",
+        "mm": "မရတ"
+      },
+      {
+        "en": "MaHaMa",
+        "mm": "မဟမ"
+      },
+      {
+        "en": "PaKaKha",
+        "mm": "ပကခ"
+      },
+      {
+        "en": "AMaYa",
+        "mm": "အမရ"
+      },
+      {
+        "en": "PaThaKa",
+        "mm": "ပသက"
+      },
+      {
+        "en": "MaMaNa",
+        "mm": "မမန"
+      },
+      {
+        "en": "PaULa",
+        "mm": "ပဥလ"
+      },
+      {
+        "en": "MaTaRa",
+        "mm": "မတရ"
+      },
+      {
+        "en": "SaKaNa",
+        "mm": "စကန"
+      },
+      {
+        "en": "ThaPaKa",
+        "mm": "သပက"
+      },
+      {
+        "en": "MaKaNa",
+        "mm": "မကန"
+      },
+      {
+        "en": "TaKaTa",
+        "mm": "တကတ"
+      },
+      {
+        "en": "KaHsaNa",
+        "mm": "ကဆန"
+      },
+      {
+        "en": "SaKaTa",
+        "mm": "စကတ"
+      },
+      {
+        "en": "MaThaNa",
+        "mm": "မသန"
+      },
+      {
+        "en": "TaTaU",
+        "mm": "တတဥ"
+      },
+      {
+        "en": "MaKhaNa",
+        "mm": "မခန"
+      },
+      {
+        "en": "TaThaNa",
+        "mm": "တသန"
+      },
+      {
+        "en": "KaPaTa",
+        "mm": "ကပတ"
+      },
+      {
+        "en": "NaHtaKa",
+        "mm": "နထက"
+      },
+      {
+        "en": "NjaUNa",
+        "mm": "ညဥန"
+      },
+      {
+        "en": "NgaZaNa",
+        "mm": "ငဇန"
+      },
+      {
+        "en": "NgaThaRa",
+        "mm": "ငသရ"
+      },
+      {
+        "en": "MaHtaLa",
+        "mm": "မထလ"
+      },
+      {
+        "en": "MaLaNa",
+        "mm": "မလန"
+      },
+      {
+        "en": "ThaSaNa",
+        "mm": "သစန"
+      },
+      {
+        "en": "WaTaNa",
+        "mm": "ဝတန"
+      },
+      {
+        "en": "RaMaTha",
+        "mm": "ရမသ"
+      },
+      {
+        "en": "PaBaNa",
+        "mm": "ပဘန"
+      }
+    ]
+  },
+  {
+    "state": "10",
+    "townships": [
+      {
+        "en": "MaLaMa",
+        "mm": "မလမ"
+      },
+      {
+        "en": "KaMaRa",
+        "mm": "ကမရ"
+      },
+      {
+        "en": "KhaHsaNa",
+        "mm": "ခဆန"
+      },
+      {
+        "en": "ThaHpaRa",
+        "mm": "သဖရ"
+      },
+      {
+        "en": "MaDaNa",
+        "mm": "မဒန"
+      },
+      {
+        "en": "RaMaNa",
+        "mm": "ရမန"
+      },
+      {
+        "en": "LaMaNa",
+        "mm": "လမန"
+      },
+      {
+        "en": "KhaZaNa",
+        "mm": "ခဇန"
+      },
+      {
+        "en": "ThaHtaNa",
+        "mm": "သထန"
+      },
+      {
+        "en": "PaMaNa",
+        "mm": "ပမန"
+      },
+      {
+        "en": "KaHtaNa",
+        "mm": "ကထန"
+      },
+      {
+        "en": "BaLaNa",
+        "mm": "ဘလန"
+      }
+    ]
+  },
+  {
+    "state": "11",
+    "townships": [
+      {
+        "en": "SaTaNa",
+        "mm": "စတန"
+      },
+      {
+        "en": "RaThaTa",
+        "mm": "ရသတ"
+      },
+      {
+        "en": "PaNaKa",
+        "mm": "ပဏက"
+      },
+      {
+        "en": "PaTaNa",
+        "mm": "ပတန"
+      },
+      {
+        "en": "MaUNa",
+        "mm": "မဥန"
+      },
+      {
+        "en": "MaPaNa",
+        "mm": "မပန"
+      },
+      {
+        "en": "KaTaNa",
+        "mm": "ကတန"
+      },
+      {
+        "en": "MaPaTa",
+        "mm": "မပတ"
+      },
+      {
+        "en": "MaTaNa",
+        "mm": "မတန"
+      },
+      {
+        "en": "BaThaTa",
+        "mm": "ဘသတ"
+      },
+      {
+        "en": "TaPaWa",
+        "mm": "တပဝ"
+      },
+      {
+        "en": "KaHpaNa",
+        "mm": "ကဖန"
+      },
+      {
+        "en": "RaBaNa",
+        "mm": "ရဗန"
+      },
+      {
+        "en": "MaANa",
+        "mm": "မအန"
+      },
+      {
+        "en": "AMaNa",
+        "mm": "အမန"
+      },
+      {
+        "en": "ThaTaNa",
+        "mm": "သတန"
+      },
+      {
+        "en": "TaKaNa",
+        "mm": "တကန"
+      },
+      {
+        "en": "MaATa",
+        "mm": "မအတ"
+      },
+      {
+        "en": "GaMaNa",
+        "mm": "ဂမန"
+      },
+      {
+        "en": "KaTaLa",
+        "mm": "ကတလ"
+      }
+    ]
+  },
+  {
+    "state": "12",
+    "townships": [
+      {
+        "en": "ThaGaKa",
+        "mm": "သဃက"
+      },
+      {
+        "en": "RaKaNa",
+        "mm": "ရကန"
+      },
+      {
+        "en": "UKaTa",
+        "mm": "ဥကတ"
+      },
+      {
+        "en": "UKaMa",
+        "mm": "ဥကမ"
+      },
+      {
+        "en": "ThaKaTa",
+        "mm": "သကတ"
+      },
+      {
+        "en": "DaPaNa",
+        "mm": "ဒပန"
+      },
+      {
+        "en": "TaMaNa",
+        "mm": "တမန"
+      },
+      {
+        "en": "PaZaTa",
+        "mm": "ပဇတ"
+      },
+      {
+        "en": "BaTaHta",
+        "mm": "ဗတထ"
+      },
+      {
+        "en": "MaGaTa",
+        "mm": "မဂတ"
+      },
+      {
+        "en": "DaGaMa",
+        "mm": "ဒဂမ"
+      },
+      {
+        "en": "DaGaRa",
+        "mm": "ဒဂရ"
+      },
+      {
+        "en": "DaGaTa",
+        "mm": "ဒဂတ"
+      },
+      {
+        "en": "DaGaHsa",
+        "mm": "ဒဂဆ"
+      },
+      {
+        "en": "KaTaTa",
+        "mm": "ကတတ"
+      },
+      {
+        "en": "PaBaTa",
+        "mm": "ပဘတ"
+      },
+      {
+        "en": "LaMaTa",
+        "mm": "လမတ"
+      },
+      {
+        "en": "LaThaNa",
+        "mm": "လသန"
+      },
+      {
+        "en": "ALaNa",
+        "mm": "အလန"
+      },
+      {
+        "en": "KaMaTa",
+        "mm": "ကမတ"
+      },
+      {
+        "en": "SaKhaNa",
+        "mm": "စခန"
+      },
+      {
+        "en": "LaMaNa",
+        "mm": "လမန"
+      },
+      {
+        "en": "KaMaRa",
+        "mm": "ကမရ"
+      },
+      {
+        "en": "MaRaKa",
+        "mm": "မရက"
+      },
+      {
+        "en": "DaGaNa",
+        "mm": "ဒဂန"
+      },
+      {
+        "en": "BaHaNa",
+        "mm": "ဗဟန"
+      },
+      {
+        "en": "HsaKaNa",
+        "mm": "ဆကန"
+      },
+      {
+        "en": "ThaLaNa",
+        "mm": "သလန"
+      },
+      {
+        "en": "KaTaNa",
+        "mm": "ကတန"
+      },
+      {
+        "en": "TaTaTa",
+        "mm": "တတတ"
+      },
+      {
+        "en": "ThaKhaNa",
+        "mm": "သခန"
+      },
+      {
+        "en": "KhaRaNa",
+        "mm": "ခရန"
+      },
+      {
+        "en": "TaTaNa",
+        "mm": "တတန"
+      },
+      {
+        "en": "KaMaNa",
+        "mm": "ကမန"
+      },
+      {
+        "en": "KaKhaKa",
+        "mm": "ကခက"
+      },
+      {
+        "en": "DaLaNa",
+        "mm": "ဒလန"
+      },
+      {
+        "en": "HsaKaKha",
+        "mm": "ဆကခ"
+      },
+      {
+        "en": "KaKaKa",
+        "mm": "ကကက"
+      },
+      {
+        "en": "ASaNa",
+        "mm": "အစန"
+      },
+      {
+        "en": "MaGaDa",
+        "mm": "မဂဒ"
+      },
+      {
+        "en": "MaBaNa",
+        "mm": "မဘန"
+      },
+      {
+        "en": "LaKaNa",
+        "mm": "လကန"
+      },
+      {
+        "en": "TaKaNa",
+        "mm": "တကန"
+      },
+      {
+        "en": "HtaTaPa",
+        "mm": "ထတပ"
+      },
+      {
+        "en": "RaPaTha",
+        "mm": "ရပသ"
+      },
+      {
+        "en": "LaThaYa",
+        "mm": "လသယ"
+      },
+      {
+        "en": "LaYaNa",
+        "mm": "လယန"
+      },
+      {
+        "en": "LaYaRa",
+        "mm": "လယရ"
+      }
+    ]
+  },
+  {
+    "state": "13",
+    "townships": [
+      {
+        "en": "TaKaNa",
+        "mm": "တကန"
+      },
+      {
+        "en": "HaPaNa",
+        "mm": "ဟပန"
+      },
+      {
+        "en": "NjaRaNa",
+        "mm": "ညရန"
+      },
+      {
+        "en": "HsaHsaNa",
+        "mm": "ဆဆန"
+      },
+      {
+        "en": "KaLaNa",
+        "mm": "ကလန"
+      },
+      {
+        "en": "PaTaYa",
+        "mm": "ပတယ"
+      },
+      {
+        "en": "RaNgaNa",
+        "mm": "ရငန"
+      },
+      {
+        "en": "RaSaNa",
+        "mm": "ရစန"
+      },
+      {
+        "en": "PaLaNa",
+        "mm": "ပလန"
+      },
+      {
+        "en": "HpaKhaNa",
+        "mm": "ဖခန"
+      },
+      {
+        "en": "KaTaLa",
+        "mm": "ကတလ"
+      },
+      {
+        "en": "NaTaRa",
+        "mm": "နတရ"
+      },
+      {
+        "en": "ATaNa",
+        "mm": "အတန"
+      },
+      {
+        "en": "LaLaNa",
+        "mm": "လလန"
+      },
+      {
+        "en": "LaKhaNa",
+        "mm": "လခန"
+      },
+      {
+        "en": "NaSaNa",
+        "mm": "နစန"
+      },
+      {
+        "en": "KaHaNa",
+        "mm": "ကဟန"
+      },
+      {
+        "en": "KaThaNa",
+        "mm": "ကသန"
+      },
+      {
+        "en": "MaKaNa",
+        "mm": "မကန"
+      },
+      {
+        "en": "MaRaNa",
+        "mm": "မရန"
+      },
+      {
+        "en": "PaLaTa",
+        "mm": "ပလတ"
+      },
+      {
+        "en": "MaNaTa",
+        "mm": "မနတ"
+      },
+      {
+        "en": "KhaLaNa",
+        "mm": "ခလန"
+      },
+      {
+        "en": "KaLaDa",
+        "mm": "ကလဒ"
+      },
+      {
+        "en": "MaSaNa",
+        "mm": "မစန"
+      },
+      {
+        "en": "LaKhaTa",
+        "mm": "လခတ"
+      },
+      {
+        "en": "MaNaNa",
+        "mm": "မနန"
+      },
+      {
+        "en": "MaMaNa",
+        "mm": "မမန"
+      },
+      {
+        "en": "MaPaNa",
+        "mm": "မပန"
+      },
+      {
+        "en": "HaMaNa",
+        "mm": "ဟမန"
+      },
+      {
+        "en": "KaTaTa",
+        "mm": "ကတတ"
+      },
+      {
+        "en": "LaRaNa",
+        "mm": "လရန"
+      },
+      {
+        "en": "ThaNaNa",
+        "mm": "သနန"
+      },
+      {
+        "en": "TaYaNa",
+        "mm": "တယန"
+      },
+      {
+        "en": "MaRaTa",
+        "mm": "မရတ"
+      },
+      {
+        "en": "KaLaTa",
+        "mm": "ကလတ"
+      },
+      {
+        "en": "PaYaNa",
+        "mm": "ပယန"
+      },
+      {
+        "en": "NaHpaNa",
+        "mm": "နဖန"
+      },
+      {
+        "en": "MaHpaTa",
+        "mm": "မဖတ"
+      },
+      {
+        "en": "PaHsaNa",
+        "mm": "ပဆန"
+      },
+      {
+        "en": "MaKaHta",
+        "mm": "မကထ"
+      },
+      {
+        "en": "MaHsaTa",
+        "mm": "မဆတ"
+      },
+      {
+        "en": "NaKhaNa",
+        "mm": "နခန"
+      },
+      {
+        "en": "KaKhaNa",
+        "mm": "ကခန"
+      },
+      {
+        "en": "TaMaNja",
+        "mm": "တမည"
+      },
+      {
+        "en": "MaHaRa",
+        "mm": "မဟရ"
+      },
+      {
+        "en": "MaKaTa",
+        "mm": "မကတ"
+      },
+      {
+        "en": "PaHsaTa",
+        "mm": "ပဆတ"
+      },
+      {
+        "en": "KaMaNa",
+        "mm": "ကမန"
+      },
+      {
+        "en": "ThaPaNa",
+        "mm": "သပန"
+      },
+      {
+        "en": "NaKhaTa",
+        "mm": "နခတ"
+      },
+      {
+        "en": "NaMaTa",
+        "mm": "နမတ"
+      },
+      {
+        "en": "NaHsaNa",
+        "mm": "နဆန"
+      },
+      {
+        "en": "MaTaTa",
+        "mm": "မတတ"
+      },
+      {
+        "en": "MaNgaNa",
+        "mm": "မငန"
+      },
+      {
+        "en": "MaLaTa",
+        "mm": "မလတ"
+      },
+      {
+        "en": "MaMaTa",
+        "mm": "မမတ"
+      },
+      {
+        "en": "MaBaNa",
+        "mm": "မဘန"
+      },
+      {
+        "en": "HaPaTa",
+        "mm": "ဟပတ"
+      },
+      {
+        "en": "PaWaNa",
+        "mm": "ပဝန"
+      },
+      {
+        "en": "MaMaHta",
+        "mm": "မမထ"
+      },
+      {
+        "en": "NaTaNa",
+        "mm": "နတန"
+      },
+      {
+        "en": "PaLaHta",
+        "mm": "ပလထ"
+      },
+      {
+        "en": "LaKaNa",
+        "mm": "လကန"
+      },
+      {
+        "en": "KaKaNa",
+        "mm": "ကကန"
+      },
+      {
+        "en": "KhaRaHa",
+        "mm": "ခရဟ"
+      },
+      {
+        "en": "MaHtaTa",
+        "mm": "မထတ"
+      },
+      {
+        "en": "KaTaNa",
+        "mm": "ကတန"
+      },
+      {
+        "en": "MaLaNa",
+        "mm": "မလန"
+      },
+      {
+        "en": "MaYaNa",
+        "mm": "မယန"
+      },
+      {
+        "en": "MaPaHta",
+        "mm": "မပထ"
+      },
+      {
+        "en": "MaKhaNa",
+        "mm": "မခန"
+      },
+      {
+        "en": "MaPaTa",
+        "mm": "မပတ"
+      },
+      {
+        "en": "TaTaNa",
+        "mm": "တတန"
+      },
+      {
+        "en": "MaHsaNa",
+        "mm": "မဆန"
+      },
+      {
+        "en": "MaKhaTa",
+        "mm": "မခတ"
+      },
+      {
+        "en": "MaTaNa",
+        "mm": "မတန"
+      },
+      {
+        "en": "PaPaKa",
+        "mm": "ပပက"
+      },
+      {
+        "en": "MaHtaNa",
+        "mm": "မထန"
+      },
+      {
+        "en": "MaHpaNa",
+        "mm": "မဖန"
+      },
+      {
+        "en": "MaYaTa",
+        "mm": "မယတ"
+      },
+      {
+        "en": "MaYaHta",
+        "mm": "မယထ"
+      },
+      {
+        "en": "TaKhaLa",
+        "mm": "တခလ"
+      },
+      {
+        "en": "TaLaNa",
+        "mm": "တလန"
+      },
+      {
+        "en": "KaLaHta",
+        "mm": "ကလထ"
+      }
+    ]
+  },
+  {
+    "state": "14",
+    "townships": [
+      {
+        "en": "PaThaNa",
+        "mm": "ပသန"
+      },
+      {
+        "en": "RaThaYa",
+        "mm": "ရသယ"
+      },
+      {
+        "en": "NgaHsaNa",
+        "mm": "ငဆန"
+      },
+      {
+        "en": "PaThaRa",
+        "mm": "ပသရ"
+      },
+      {
+        "en": "KaKaHta",
+        "mm": "ကကထ"
+      },
+      {
+        "en": "NgaPaTa",
+        "mm": "ငပတ"
+      },
+      {
+        "en": "HaKaKa",
+        "mm": "ဟကက"
+      },
+      {
+        "en": "NgaRaKa",
+        "mm": "ငရက"
+      },
+      {
+        "en": "ThaPaNa",
+        "mm": "သပန"
+      },
+      {
+        "en": "KaKaNa",
+        "mm": "ကကန"
+      },
+      {
+        "en": "RaKaNa",
+        "mm": "ရကန"
+      },
+      {
+        "en": "NgaThaKha",
+        "mm": "ငသခ"
+      },
+      {
+        "en": "KaPaNa",
+        "mm": "ကပန"
+      },
+      {
+        "en": "HaThaTa",
+        "mm": "ဟသတ"
+      },
+      {
+        "en": "ZaLaNa",
+        "mm": "ဇလန"
+      },
+      {
+        "en": "LaMaNa",
+        "mm": "လမန"
+      },
+      {
+        "en": "AGaPa",
+        "mm": "အဂပ"
+      },
+      {
+        "en": "MaANa",
+        "mm": "မအန"
+      },
+      {
+        "en": "KaKhaNa",
+        "mm": "ကခန"
+      },
+      {
+        "en": "MaAPa",
+        "mm": "မအပ"
+      },
+      {
+        "en": "PaTaNa",
+        "mm": "ပတန"
+      },
+      {
+        "en": "NjaTaNa",
+        "mm": "ညတန"
+      },
+      {
+        "en": "DaNaHpa",
+        "mm": "ဓနဖ"
+      },
+      {
+        "en": "HpaPaNa",
+        "mm": "ဖပန"
+      },
+      {
+        "en": "AMaTa",
+        "mm": "အမတ"
+      },
+      {
+        "en": "BaKaLa",
+        "mm": "ဘကလ"
+      },
+      {
+        "en": "KaLaNa",
+        "mm": "ကလန"
+      },
+      {
+        "en": "DaDaYa",
+        "mm": "ဒဒရ"
+      },
+      {
+        "en": "LaPaTa",
+        "mm": "လပတ"
+      },
+      {
+        "en": "PaSaLa",
+        "mm": "ပစလ"
+      },
+      {
+        "en": "MaMaKa",
+        "mm": "မမက"
+      },
+      {
+        "en": "MaMaNa",
+        "mm": "မမန"
+      },
+      {
+        "en": "AMaNa",
+        "mm": "အမန"
+      },
+      {
+        "en": "WaKhaMa",
+        "mm": "ဝခမ"
+      }
+    ]
+  }
+]

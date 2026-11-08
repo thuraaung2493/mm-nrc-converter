@@ -1,48 +1,20 @@
-const nrcLists = require("../data/nrc-list.json");
-const Utils = require("./utils");
-const getPattern = require("./nrcPattern");
-const detect = require("./detect");
-const convertNumbers = require("./convertNumbers");
+const { readNrc, formatNrc } = require("./nrc");
+const { removeAllSpace } = require("./utils");
+const normalizeLanguage = require("./language");
 
-const nrcTypes = [
-  { eng: "N", mm: "နိုင်" },
-  { eng: "Naing", mm: "နိုင်" },
-  { eng: "P", mm: "ပြု" },
-  { eng: "Pyu", mm: "ပြု" },
-];
-
-const convert = {
-  eng: { from: "eng", to: "mm" },
-  mm: { from: "mm", to: "eng" },
-};
-
-function autoConvertNrc(nrc) {
-  const type = detect(nrc) ? "eng" : "mm";
-  const { from, to } = convert[type];
-
-  return _convert(nrc, from, to);
+// Compatibility API: keep positional languages, relaxed serial lengths and no-op invalid strings.
+function convertNrc(input, from = "eng", to = "mm") {
+  const source = normalizeLanguage(from);
+  const target = normalizeLanguage(to);
+  if (typeof input !== "string") throw new TypeError("NRC must be a string.");
+  const result = readNrc(input, false, source);
+  return result ? formatNrc(result, target) : removeAllSpace(input);
 }
 
-function convertNrc(nrc, from = "eng", to = "mm") {
-  return _convert(nrc, from, to);
+function autoConvertNrc(input) {
+  if (typeof input !== "string") throw new TypeError("NRC must be a string.");
+  const result = readNrc(input, false);
+  return result ? formatNrc(result, result.language === "en" ? "mm" : "en") : removeAllSpace(input);
 }
 
-function _convert(nrc, from, to) {
-  const nrcWithoutSpace = Utils.removeAllSpace(nrc);
-
-  function replacer(_, state, township, nrcType, numbers) {
-    state = convertNumbers(state, from, to);
-    numbers = convertNumbers(numbers, from, to);
-    nrcType = Utils.transform(nrcTypes, nrcType, from, to);
-    township = Utils.transform(nrcLists, township, from, to);
-
-    return `${state}/${township}(${nrcType})${numbers}`;
-  }
-
-  return nrcWithoutSpace.replace(getPattern(from), replacer);
-}
-
-module.exports = {
-  autoConvertNrc,
-  convertNrc,
-};
+module.exports = { autoConvertNrc, convertNrc };
