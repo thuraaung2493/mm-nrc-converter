@@ -1,5 +1,21 @@
 # Changelog
 
+## 2.0.2
+
+### Documentation
+
+- Fix installation instructions and improve documentation in `README.md`.
+
+### Branding
+
+- Update project logo and GitHub social preview image.
+
+## 2.0.1
+
+### Package
+
+- Rename the npm package from `mm-nrc-converter` to `@thuraaung2493/mm-nrc-converter`.
+
 ## 2.0.0
 
 - Add `toEnglish()`, `toMyanmar()`, `convert()`, `parse()`, `isValid()`, and

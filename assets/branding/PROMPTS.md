@@ -26,6 +26,6 @@ Top label: "THURA AUNG / OPEN SOURCE"
 Large main title: "mm-nrc-converter"
 Subtitle: "Myanmar NRC conversion"
 Supporting line: "English ↔ Myanmar · Format detection · Numerals"
-Command capsule: "npm install mm-nrc-converter"
+Command capsule: "npm install @thuraaung2493/mm-nrc-converter"
 Small footer: "github.com/thuraaung2493/mm-nrc-converter"
 Do not invent any other text. No badges, stars, versions or claims. No watermarks. The final image must be a single ready-to-upload banner, not a scene, mockup, collage or presentation of multiple variants.
